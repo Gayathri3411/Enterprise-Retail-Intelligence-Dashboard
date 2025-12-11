@@ -229,16 +229,16 @@ Business Intelligence
 ## 🖼 Screenshots
 
 ## Executive Summary
-![Executive Summary]()
+![Executive Summary](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Executive%20Summary.png)
 
 ## Geographic Sales
-![Geographic Sales]()
+![Geographic Sales](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Geographic%20Sales.png)
 
 ## Product Anlaysis
-![Product Analysis]()
+![Product Analysis](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Product%20Analysis.png)
 
 ## Customer Insights
-![Customer Insights]()
+![Customer Insights](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Customer%20Insights.png)
 
 ## 📁 Recommended Repository Structure
 
