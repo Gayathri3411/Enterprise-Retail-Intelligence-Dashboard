@@ -226,7 +226,7 @@ Dashboard Design
 
 Business Intelligence
 
-## Screenshots
+# Screenshots
 
 ## Executive Summary
 ![Executive Summary](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Executive%20Summary.png)
